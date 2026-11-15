@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "litter_box": "limpio",
+    "cat_id": 1,
+    "date": "2026-11-14T23:34:40.3980064-05:00",
+    "notes": "lipiar despues de medio dia"
+  },
+  {
+    "id": 2,
+    "litter_box": "sucio",
+    "cat_id": 2,
+    "date": "2026-11-14T23:36:57.8992454-05:00",
+    "notes": "limpiar inmediatamente"
+  }
+]
